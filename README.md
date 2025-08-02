@@ -2,21 +2,6 @@
 
 A comprehensive movie recommendation system that combines **Collaborative Filtering (70%)** and **Content-Based Filtering (30%)** to provide personalized movie recommendations.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Architecture](#architecture)
-- [Model Performance](#model-performance)
-- [API Reference](#api-reference)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project implements a hybrid recommendation system that leverages both collaborative filtering and content-based filtering to provide accurate movie recommendations. The system uses:
